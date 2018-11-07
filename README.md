@@ -4,4 +4,4 @@
 # Command: node app.js
 # You will not get any output on console screen instead a new configuration.txt file will be created 
 # You can find your pc information there.
-#Happy Coding.. :)
+# Happy Coding.. :)
